@@ -4,9 +4,9 @@ body {
  }
  h1 {
      display: block;
+     font-family: 'Tangerine', cursive;
      text-align:center;font-size: 70px;
      color: brown;
-     -o-text-overflow: clip;
  }
  .img-div{
      width: 100%;
