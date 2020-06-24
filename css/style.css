@@ -1,6 +1,9 @@
 
 body {
     background-color: grey;
+    background-image: url("..//images/download.jpeg");
+     background-position: center;
+     background-size: cover;
  }
  h1 {
      display: block;
@@ -21,6 +24,7 @@ body {
      display: block;
      margin: auto;
      width: 250px; height: 250px;
+     
  }
  video {
      display: block;
